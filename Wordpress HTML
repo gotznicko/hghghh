@@ -1,0 +1,21 @@
+HTML code for redirecting to a WORDPRESS link
+
+&nbsp;<a href="[site]“>[name site] </a>
+
+
+EX: &nbsp;<a href="http://google.com">Google </a>
+
+
+
+
+adding HTML image to wordpress
+
+&nbsp;<a href="https://[(site).files.wordpress.com/file]”><img src=“[https://(site).files.wordpress.com/file]” alt=“” width=“[]” height=“[]&quot;” class=“alignnone size-full wp-image-200”></a>
+
+<a href=“[site]”>
+</a>
+
+
+
+
+
